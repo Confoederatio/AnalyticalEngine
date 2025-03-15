@@ -10,9 +10,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b6f7f8-b868-43e9-b471-ac1dbd15fa3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AnalyticalEngine/Java/MapEditor/ProvinceDrawDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mods/11.59/deepscript/mapmodes/religion_mapmode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mods/11.59/game/Religions.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnalyticalEngine/Java/menusInGame/InGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnalyticalEngine/Java/menusInGame/InGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mods/11.59/languages/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/languages/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnalyticalEngine/GameFramework/ui/editors/mod_editor/mod_editor_ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnalyticalEngine/GameFramework/ui/editors/mod_editor/mod_editor_ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Civilizations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Civilizations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/DataProvinces.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/DataProvinces.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/Religions.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/Religions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/11.59/scenarios/Default/preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ad2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ad2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/afra.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/afra.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/alb.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/alb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/aneg.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/aneg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/bel_m.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/bel_m.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishforcesofoccupationinaustria.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishforcesofoccupationinaustria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationineritrea.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationineritrea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinlibya.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinlibya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinogadenandhaud.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinogadenandhaud.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinsomaliland.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/britishmilitaryadministrationinsomaliland.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofmadagascar.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofmadagascar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofmozambique.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofmozambique.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofsurinam.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyofsurinam.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyoftheriodeoro.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/colonyoftheriodeoro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/conb.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/conb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/czsl.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/czsl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/den.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/den.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/fra.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/fra.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/freecityoftriestezonea.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/freecityoftriestezonea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/freecityoftriestezoneb.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/freecityoftriestezoneb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchequatorialafrica.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchequatorialafrica.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchforcesingermany.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchforcesingermany.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchprotectorateinmorocco.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchprotectorateinmorocco.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchprotectorateoftunisia.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchprotectorateoftunisia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchsomaliland.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchsomaliland.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchzone.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frenchzone.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frg.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/frg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/gam2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/gam2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/guu.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/guu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/guu2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/guu2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/hond2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/hond2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/hun.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/hun.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/interalliedzone.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/interalliedzone.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ira.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ira.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/irq.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/irq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ita.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ita.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/lux.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/lux.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/maw2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/maw2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/mex.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/mex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/militaryterritoryoffezzanghadames.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/militaryterritoryoffezzanghadames.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/militaryterritoryofghadames.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/militaryterritoryofghadames.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/mqu.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/mqu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/nige3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/nige3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/northerncameroons.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/northerncameroons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/northernterritories.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/northernterritories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/officeofmilitarygovernmentunitedstates.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/officeofmilitarygovernmentunitedstates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/pol.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/pol.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/por.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/por.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/portugueseangola.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/portugueseangola.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sau.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sau.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/somb.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/somb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietmilitaryadministrationinaustria.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietmilitaryadministrationinaustria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietmilitaryadministrationingermany.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietmilitaryadministrationingermany.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietoccupationofiran.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietoccupationofiran.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietoccupationofromania.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/sovietoccupationofromania.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/spa.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/spa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/spanishprotectorateinmorocco.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/spanishprotectorateinmorocco.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/stru.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/stru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/swi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/swi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/syrianrepublic.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/syrianrepublic.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tang.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tang.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tangier.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tangier.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/territoryofcameroun.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/territoryofcameroun.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tmus.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tmus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tpal.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tpal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tsie.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tsie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ttra.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ttra.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tuga.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tuga.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tur.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/tur.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/unitedstatesforcesinaustria.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/unitedstatesforcesinaustria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ven.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mods/11.59/game/civilizations/ven.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Settings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/settings/Settings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AnalyticalEngine/AnalyticalEngine_MainMenu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AnalyticalEngine/AnalyticalEngine_MainMenu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/ScenarioAssign$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/ScenarioAssign$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/ScenarioCivilizations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/ScenarioCivilizations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/Wasteland/ScenarioWasteland$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/Wasteland/ScenarioWasteland$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/Wasteland/ScenarioWastelandContinents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aoc/kingdoms/lukasz/menusScenarioEditor/Wasteland/ScenarioWastelandContinents$1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +314,8 @@
       <workItem from="1740792406744" duration="11127000" />
       <workItem from="1740913472756" duration="6817000" />
       <workItem from="1741858587915" duration="682000" />
-      <workItem from="1741877354508" duration="30286000" />
+      <workItem from="1741877354508" duration="36980000" />
+      <workItem from="1742072791152" duration="700000" />
     </task>
     <servers />
   </component>

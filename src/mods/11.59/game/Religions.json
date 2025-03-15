@@ -1,0 +1,297 @@
+{
+  Age_of_History: Data,
+  Data: [
+    //Abrahamic Religions
+    //Christianity
+    {
+      Name: Catholicism,
+      Icon: "pagan.png",
+      ReligionGroupID: 0,
+      Color: [255, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: Mormonism,
+      Icon: "pagan.png",
+      ReligionGroupID: 0,
+      Color: [255, 191, 191],
+      Tribal: false
+    },
+    {
+      Name: Orthodoxy,
+      Icon: "pagan.png",
+      ReligionGroupID: 0,
+      Color: [128, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: Protestantism,
+      Icon: "pagan.png",
+      ReligionGroupID: 0,
+      Color: [255, 128, 128],
+      Tribal: false
+    },
+
+    //Islam
+    {
+      Name: Ibadi,
+      Icon: "pagan.png",
+      ReligionGroupID: 1,
+      Color: [170, 255, 170],
+      Tribal: false
+    },
+    {
+      Name: Shia,
+      Icon: "pagan.png",
+      ReligionGroupID: 1,
+      Color: [0, 106, 0],
+      Tribal: false
+    },
+    {
+      Name: Sunni,
+      Icon: "pagan.png",
+      ReligionGroupID: 1,
+      Color: [0, 213, 0],
+      Tribal: false
+    },
+
+    //Judaism
+    {
+      Name: Judaism,
+      Icon: "pagan.png",
+      ReligionGroupID: 2,
+      Color: [0, 0, 255],
+      Tribal: false
+    },
+
+    //Non-Abrahamic Religions
+    //Buddhism
+    {
+      Name: Mahayana,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [255, 64, 255],
+      Tribal: false
+    },
+    {
+      Name: Theravada,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [106, 0, 106],
+      Tribal: false
+    },
+    {
+      Name: Vajrayana,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [213, 0, 213],
+      Tribal: false
+    },
+
+
+    //Folk Religion
+    {
+      Name: FolkReligion,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [128, 64, 0],
+      Tribal: false
+    },
+
+    //Hinduism
+    {
+      Name: Hinduism,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [255, 255, 0],
+      Tribal: false
+    },
+
+    //Sikhism
+    {
+      Name: Sikhism,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [255, 125, 9],
+      Tribal: false
+    },
+
+    //No Religion
+    {
+      Name: NoReligion,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [150, 150, 150],
+      Tribal: false
+    },
+
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    },
+    {
+      Name: UNDEFINED,
+      Icon: "pagan.png",
+      ReligionGroupID: 3,
+      Color: [0, 0, 0],
+      Tribal: false
+    }
+  ]
+}
