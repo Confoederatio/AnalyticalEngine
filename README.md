@@ -167,7 +167,7 @@ Documentation is currently a WIP. Consider joining the Discord if you need techn
  | Planned Version. | Features. |
 | :--------------: | :-------------------------------------------------------------------------------------------------------------------------------- |
 | **Beta** | <ul><li>Full NashornJS compatibility and scripting. ✅</li><li>Custom Event Support. ✅</li><li>Custom Mapmode Support. ✅</li><li>Custom UI Support. ✅</li><li>Deepscript Conditions. ✅</li><li>Deepscript Effects. ✅</li><li>Deepscript Loops. ✅</li><li>Deepscript Scopes. ✅</li><li>Deepscript Variables. ✅</li><li>Overhauled Map Editor. ✅</li><li>Revamped Scenario Editor. ✅</li></ul> |
-| **Release** | <ul><li>Better Custom Mapmodes. ❌</li><li>Better Custom UIs. ❌</li><li>Cross-compatibility support outside Windows. ❌</li><li>In-game Event Editor. ❌</li><li>Map Editor Overhaul Completed. ❌</li><li>Modded Multiplayer Support. 🏗️</li><li>Post-release Singleplayer Polish. ❌</li></ul> |
+| **Release** | <ul><li>Better Custom Mapmodes. ✅</li><li>Better Custom UIs. 🏗️</li><li>Cross-compatibility support outside Windows. 🏗️</li><li>In-game Event Editor. ❌</li><li>Map Editor Overhaul Completed. ❌</li><li>Modded Multiplayer Support. 🏗️</li><li>Post-release Singleplayer Polish. ❌</li></ul> |
 | **Post-Release** | <ul><li>Custom Mapmode Editor ❌</li><li>Custom UI Editor ❌</li><li>Expanded Custom Mechanics (Pops, Production Chains) ❌</li></ul> |
 
 </div>
