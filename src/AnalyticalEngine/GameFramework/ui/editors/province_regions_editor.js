@@ -34,7 +34,7 @@
 						anchor: "top_right",
 						can_close: false,
 						height: 400,
-						width: 4 * CFG.BUTTON_WIDTH + 2 * CFG.PADDING,
+						width: 4*CFG.BUTTON_WIDTH + 2*CFG.PADDING,
 						x: 800,
 						y: 150,
 

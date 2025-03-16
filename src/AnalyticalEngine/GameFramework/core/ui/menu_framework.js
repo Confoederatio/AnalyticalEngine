@@ -1,6 +1,98 @@
 //Initialise functions
 {
 	/**
+	 * addCustomUI() - Adds a context menu UI to the game.
+	 * @param {Object} [arg0_options]
+	 *  @param {String} [arg0_options.id] - The ID of the Custom UI to use in main.interfaces.
+	 *  @param {Array<String>} [arg0_options.pages=["IN_GAME"]] - The pages on which to display the menu.
+	 *
+	 *  @param {Object} [arg0_options.options]
+	 *   @param {String} [arg0_options.options.anchor="top_left"] - Either 'bottom_left', 'bottom_right', 'top_left', or 'top_right'.
+	 *   @param {String} [arg0_options.options.id] - Random ID by default.
+	 *
+	 *   @param {boolean} [arg0_options.options.can_close=true]
+	 *   @param {boolean} [arg0_options.options.do_not_display=false] - Whether to display the menu or simply return its form without .menu_obj;
+	 *   @param {boolean} [arg0_options.options.draggable=true]
+	 *   @param {boolean} [arg0_options.options.has_back_button=false]
+	 *   @param {boolean} [arg0_options.options.lock_hover=false]
+	 *   @param {String} [arg0_options.options.name] - If undefined, the MenuTitle is null instead.
+	 *   @param {boolean} [arg0_options.options.no_title=true] - Whether there is a title or not.
+	 *   @param {boolean} [arg0_options.options.pinned=false] - If the Menu is pinned such that it always sits at the front.
+	 *   @param {Array<String>|boolean|String} [arg0_options.options.persistent=false] - If the menu should persist across view changes. False by default.
+	 *   @param {boolean} [arg0_options.options.raw_coords=false] - Whether to skip auto-formatting and manually supply all coords. For use in non-vertical menus.
+	 *   @param {boolean} [arg0_options.options.resizeable=true]
+	 *
+	 *   @param {number} [arg0_options.options.height]
+	 *   @param {number} [arg0_options.options.width=2] - The width as multiplied by CFG.BUTTON_WIDTH.
+	 *   @param {number} [arg0_options.options.x]
+	 *   @param {number} [arg0_options.options.y]
+	 *
+	 *   @param {Object} [arg0_options.options."input_key"]
+	 *    @param {String} [arg0_options.options."input_key".name]
+	 * 	  @param {String} [arg0_options.options."input_key".type] - Either 'bar_chart'/'button'/'flag_button'/'large_flag_button'/'line_graph'/'minimap'/'pie_chart'/'pie_chart_with_stats'/'scroll_text'/'slider'/'text'.
+	 * 	  @param {number} [arg0_options.options."input_key".raw_coords=false] - Whether to use raw specified coords instead of autoformatting.
+	 * 	  @param {number} [arg0_options.options."input_key".raw_dimensions=false] - Whether to override default multiplication for .width.
+	 * 	  @param {number} [arg0_options.options."input_key".height=2] - The height as multiplied by CFG.BUTTON_WIDTH.
+	 * 	  @param {number} [arg0_options.options."input_key".width=2] - The width as multiplied by CFG.BUTTON_WIDTH.
+	 * 	  @param {number} [arg0_options.options."input_key".x]
+	 * 	  @param {number} [arg0_options.options."input_key".y]
+	 *
+	 *    @param {String} [arg0_options.options."input_key".align="centre"] - Optional. Either 'left', 'centre', or 'right'.
+	 *    @param {boolean} [arg0_options.options.clickable=true]
+	 *    @param {Function} [arg0_options.options."input_key".special_function]
+	 *    @param {String} [arg0_options.options."input_key".tooltip]
+	 * @param {Function} [arg0_options.init_function] - Feeds (arg0_interface_obj) as parameters.
+	 * @param {Function} [arg0_options.update_function] - Feeds (arg0_interface_obj) as parameters.
+	 * @param {number} [arg0_options.update_interval=100] - How often to run the update function.
+	 *
+	 *  @returns {{id: String, menu_elements: Array<MenuElement>, menu_flags: {}, menu_properties: {}, menu_obj: Menu}}
+	 */
+	function addCustomUI (arg0_options) {
+		//Convert from parameters.
+		var options = (arg0_options) ? arg0_options : {};
+
+		//Initialise options
+		options.id = (options.id) ? options.idd : generateRandomID(main.interfaces);
+		options.pages = (options.pages) ? getList(options.pages) : ["IN_GAME"];
+
+		//Declare local instance variables
+		var random_page_change_id = generateRandomID(global.on_page_change);
+
+		//Set page change event
+		global.on_page_change[random_page_change_id] = function (arg0_current_page) {
+			//Convert from parameters
+			var current_page = arg0_current_page;
+
+			//Initialise interface_obj if it doesn't already exist
+			if (options.pages.includes(current_page))
+				if (!main.interfaces[options.id]) {
+					//Set initial interface settings
+					if (!main.interfaces[options.id])
+						main.interfaces[options.id] = {};
+					var interface_obj = main.interfaces[options.id];
+
+					if (options.pre_init_function)
+						options.pre_init_function(interface_obj);
+
+					var local_context_menu = createContextMenu(options.options);
+
+					if (!interface_obj.logic_loop)
+						interface_obj.logic_loop = setInterval(function(){
+							try {
+								interface_obj.update_function(interface_obj);
+							} catch (e) {
+								console.error(e.stack);
+							}
+						}, (interface_obj.update_interval) ? interface_obj.update_interval : 100);
+					interface_obj.init_function(interface_obj);
+				}
+		};
+
+		//Return statement
+		return interface_obj;
+	}
+
+	/**
 	 * addElements() - Add context menu elements to another context menu.
 	 * @param {String} arg0_interface_id - The interface ID to add menu elements to.
 	 * @param {Object<ContextMenu>} arg1_context_menu_obj - The ContextMenu Object to create elements for. Make sure to set do_not_display to true when creating ContextMenu Object.

@@ -53,7 +53,7 @@
 	 *
 	 *  @param {boolean} [arg0_options.is_editor_mapmode=false] - Whether this is an editor mapmode.
 	 *  @param {boolean} [arg0_options.is_game_mapmode=false] - Whether this is an in-game mapmode.
-	 *  @param {boolean} [arg0_options.live_update=false] - Whether this is mapmode should update live. Decreases performance at the cost of a live update loop.
+	 *  @param {boolean} [arg0_options.live_update=false] - Whether this mapmode should update live. Decreases performance at the cost of a live update loop.
 	 *  @param {boolean} [arg0_options.separate_mapmode=false] - Whether this is a fully-fledged mapmode, or a sub-mapmode of the pre-existing applied mapmode.
 	 *
 	 *  @param {Function} [arg0_options.special_function] - Must return an RGBA value for all provinces in array format, [0-255, 0-255, 0-255, 0-1]. Passes (province_obj). Undefined assumes a fully transparent province.
