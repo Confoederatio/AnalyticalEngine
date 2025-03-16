@@ -93,7 +93,7 @@
     {
       Name: FolkReligion,
       Icon: "pagan.png",
-      ReligionGroupID: 3,
+      ReligionGroupID: 4,
       Color: [128, 64, 0],
       Tribal: false
     },
@@ -102,7 +102,7 @@
     {
       Name: Hinduism,
       Icon: "pagan.png",
-      ReligionGroupID: 3,
+      ReligionGroupID: 5,
       Color: [255, 255, 0],
       Tribal: false
     },
@@ -111,7 +111,7 @@
     {
       Name: Sikhism,
       Icon: "pagan.png",
-      ReligionGroupID: 3,
+      ReligionGroupID: 6,
       Color: [255, 125, 9],
       Tribal: false
     },
@@ -120,18 +120,21 @@
     {
       Name: NoReligion,
       Icon: "pagan.png",
-      ReligionGroupID: 3,
+      ReligionGroupID: 7,
       Color: [150, 150, 150],
       Tribal: false
     },
 
+    //Other Religions
     {
-      Name: UNDEFINED,
+      Name: Shintoism,
       Icon: "pagan.png",
-      ReligionGroupID: 3,
-      Color: [0, 0, 0],
+      ReligionGroupID: 8,
+      Color: [102, 16, 16],
       Tribal: false
     },
+
+    //Overflow Religions
     {
       Name: UNDEFINED,
       Icon: "pagan.png",
