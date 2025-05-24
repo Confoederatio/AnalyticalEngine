@@ -24,6 +24,714 @@
             iR: 132,
             iG: 167,
             iB: 46
+        },
+        {
+            sName: "Nevada",
+            iR: 118,
+            iG: 1,
+            iB: 7
+        },
+        {
+            sName: "Idaho",
+            iR: 242,
+            iG: 211,
+            iB: 65
+        },
+        {
+            sName: "Arizona",
+            iR: 131,
+            iG: 146,
+            iB: 44
+        },
+        {
+            sName: "Utah",
+            iR: 154,
+            iG: 120,
+            iB: 66
+        },
+        {
+            sName: "New Mexico",
+            iR: 77,
+            iG: 59,
+            iB: 62
+        },
+        {
+            sName: "Colorado",
+            iR: 4,
+            iG: 253,
+            iB: 237
+        },
+        {
+            sName: "Wyoming",
+            iR: 5,
+            iG: 96,
+            iB: 121
+        },
+        {
+            sName: "Montana",
+            iR: 174,
+            iG: 33,
+            iB: 39
+        },
+        {
+            sName: "Texas",
+            iR: 50,
+            iG: 37,
+            iB: 151
+        },
+        {
+            sName: "Oklahoma",
+            iR: 113,
+            iG: 179,
+            iB: 148
+        },
+        {
+            sName: "Kansas",
+            iR: 108,
+            iG: 245,
+            iB: 166
+        },
+        {
+            sName: "Nebraska",
+            iR: 62,
+            iG: 52,
+            iB: 43
+        },
+        {
+            sName: "South Dakota",
+            iR: 38,
+            iG: 61,
+            iB: 141
+        },
+        {
+            sName: "North Dakota",
+            iR: 38,
+            iG: 175,
+            iB: 102
+        },
+        {
+            sName: "Louisiana",
+            iR: 178,
+            iG: 246,
+            iB: 141
+        },
+        {
+            sName: "Mississippi",
+            iR: 213,
+            iG: 4,
+            iB: 163
+        },
+        {
+            sName: "Alabama",
+            iR: 36,
+            iG: 239,
+            iB: 245
+        },
+        {
+            sName: "Florida",
+            iR: 249,
+            iG: 126,
+            iB: 5
+        },
+        {
+            sName: "Georgia",
+            iR: 107,
+            iG: 198,
+            iB: 156
+        },
+        {
+            sName: "Arkansas",
+            iR: 134,
+            iG: 150,
+            iB: 61
+        },
+        {
+            sName: "South Carolina",
+            iR: 30,
+            iG: 33,
+            iB: 220
+        },
+        {
+            sName: "North Carolina",
+            iR: 191,
+            iG: 170,
+            iB: 31
+        },
+        {
+            sName: "Tennessee",
+            iR: 66,
+            iG: 108,
+            iB: 4
+        },
+        {
+            sName: "Virginia",
+            iR: 55,
+            iG: 71,
+            iB: 193
+        },
+        {
+            sName: "Kentucky",
+            iR: 253,
+            iG: 10,
+            iB: 114
+        },
+        {
+            sName: "Missouri",
+            iR: 81,
+            iG: 143,
+            iB: 153
+        },
+        {
+            sName: "Iowa",
+            iR: 86,
+            iG: 207,
+            iB: 46
+        },
+        {
+            sName: "Minnesota",
+            iR: 203,
+            iG: 213,
+            iB: 47
+        },
+        {
+            sName: "West Virginia",
+            iR: 201,
+            iG: 76,
+            iB: 83
+        },
+        {
+            sName: "Wisconsin",
+            iR: 36,
+            iG: 154,
+            iB: 25
+        },
+        {
+            sName: "Wisconsin",
+            iR: 203,
+            iG: 115,
+            iB: 231
+        },
+        {
+            sName: "Illinois",
+            iR: 53,
+            iG: 176,
+            iB: 131
+        },
+        {
+            sName: "Indiana",
+            iR: 97,
+            iG: 187,
+            iB: 253
+        },
+        {
+            sName: "Michigan",
+            iR: 68,
+            iG: 171,
+            iB: 179
+        },
+        {
+            sName: "New Region",
+            iR: 125,
+            iG: 201,
+            iB: 47
+        },
+        {
+            sName: "Ohio",
+            iR: 17,
+            iG: 26,
+            iB: 210
+        },
+        {
+            sName: "Maryland",
+            iR: 207,
+            iG: 28,
+            iB: 212
+        },
+        {
+            sName: "Washington, D.C.",
+            iR: 106,
+            iG: 197,
+            iB: 217
+        },
+        {
+            sName: "Delaware",
+            iR: 32,
+            iG: 123,
+            iB: 139
+        },
+        {
+            sName: "Pennsylvania",
+            iR: 43,
+            iG: 170,
+            iB: 254
+        },
+        {
+            sName: "New Jersey",
+            iR: 110,
+            iG: 4,
+            iB: 235
+        },
+        {
+            sName: "New York",
+            iR: 144,
+            iG: 35,
+            iB: 34
+        },
+        {
+            sName: "Connecticut",
+            iR: 114,
+            iG: 19,
+            iB: 121
+        },
+        {
+            sName: "Rhode Island",
+            iR: 82,
+            iG: 222,
+            iB: 128
+        },
+        {
+            sName: "Massachusetts",
+            iR: 56,
+            iG: 114,
+            iB: 54
+        },
+        {
+            sName: "Vermont",
+            iR: 30,
+            iG: 240,
+            iB: 87
+        },
+        {
+            sName: "New Hampshire",
+            iR: 229,
+            iG: 141,
+            iB: 106
+        },
+        {
+            sName: "Maine",
+            iR: 36,
+            iG: 95,
+            iB: 53
+        },
+        {
+            sName: "Alaska",
+            iR: 233,
+            iG: 213,
+            iB: 210
+        },
+        {
+            sName: "Hawaii",
+            iR: 96,
+            iG: 118,
+            iB: 179
+        },
+        {
+            sName: "British Columbia",
+            iR: 77,
+            iG: 94,
+            iB: 207
+        },
+        {
+            sName: "Alberta",
+            iR: 169,
+            iG: 186,
+            iB: 138
+        },
+        {
+            sName: "Yukon",
+            iR: 113,
+            iG: 211,
+            iB: 130
+        },
+        {
+            sName: "Northern Territories",
+            iR: 235,
+            iG: 214,
+            iB: 96
+        },
+        {
+            sName: "Saskatchewan",
+            iR: 11,
+            iG: 76,
+            iB: 190
+        },
+        {
+            sName: "Manitoba",
+            iR: 24,
+            iG: 253,
+            iB: 22
+        },
+        {
+            sName: "Ontario",
+            iR: 223,
+            iG: 13,
+            iB: 101
+        },
+        {
+            sName: "Quebec",
+            iR: 24,
+            iG: 16,
+            iB: 214
+        },
+        {
+            sName: "Newfoundland and Labrador",
+            iR: 66,
+            iG: 204,
+            iB: 155
+        },
+        {
+            sName: "New Brunswick",
+            iR: 247,
+            iG: 178,
+            iB: 60
+        },
+        {
+            sName: "Nova Scotia",
+            iR: 245,
+            iG: 23,
+            iB: 192
+        },
+        {
+            sName: "Prince Edward Island",
+            iR: 58,
+            iG: 21,
+            iB: 135
+        },
+        {
+            sName: "St. Pierre et Miquelon",
+            iR: 129,
+            iG: 50,
+            iB: 96
+        },
+        {
+            sName: "Baja California",
+            iR: 232,
+            iG: 226,
+            iB: 137
+        },
+        {
+            sName: "Baja California Sur",
+            iR: 51,
+            iG: 119,
+            iB: 4
+        },
+        {
+            sName: "Sonora",
+            iR: 90,
+            iG: 225,
+            iB: 77
+        },
+        {
+            sName: "Chihuahua",
+            iR: 214,
+            iG: 162,
+            iB: 65
+        },
+        {
+            sName: "Coahuila",
+            iR: 131,
+            iG: 172,
+            iB: 62
+        },
+        {
+            sName: "Tamaupilas",
+            iR: 52,
+            iG: 86,
+            iB: 2
+        },
+        {
+            sName: "Nuevo Leon",
+            iR: 153,
+            iG: 16,
+            iB: 45
+        },
+        {
+            sName: "Sinaloa",
+            iR: 44,
+            iG: 18,
+            iB: 219
+        },
+        {
+            sName: "Durango",
+            iR: 227,
+            iG: 217,
+            iB: 137
+        },
+        {
+            sName: "Zacatecas",
+            iR: 218,
+            iG: 172,
+            iB: 63
+        },
+        {
+            sName: "San Luis Potosi",
+            iR: 37,
+            iG: 60,
+            iB: 231
+        },
+        {
+            sName: "Queretaro",
+            iR: 35,
+            iG: 85,
+            iB: 156
+        },
+        {
+            sName: "Veracruz",
+            iR: 79,
+            iG: 253,
+            iB: 246
+        },
+        {
+            sName: "Tabasco",
+            iR: 177,
+            iG: 30,
+            iB: 170
+        },
+        {
+            sName: "Campeche",
+            iR: 91,
+            iG: 29,
+            iB: 105
+        },
+        {
+            sName: "Yucatan",
+            iR: 31,
+            iG: 218,
+            iB: 206
+        },
+        {
+            sName: "Quintana Roo",
+            iR: 125,
+            iG: 167,
+            iB: 137
+        },
+        {
+            sName: "Nayarit",
+            iR: 246,
+            iG: 32,
+            iB: 244
+        },
+        {
+            sName: "Jalisco",
+            iR: 20,
+            iG: 226,
+            iB: 110
+        },
+        {
+            sName: "Aguacalientes",
+            iR: 208,
+            iG: 136,
+            iB: 239
+        },
+        {
+            sName: "Colima",
+            iR: 254,
+            iG: 16,
+            iB: 13
+        },
+        {
+            sName: "Mihoacan",
+            iR: 116,
+            iG: 224,
+            iB: 254
+        },
+        {
+            sName: "Guanajuato",
+            iR: 171,
+            iG: 178,
+            iB: 206
+        },
+        {
+            sName: "Hidalgo",
+            iR: 14,
+            iG: 146,
+            iB: 126
+        },
+        {
+            sName: "Pueblo",
+            iR: 78,
+            iG: 214,
+            iB: 21
+        },
+        {
+            sName: "Tlaxcala",
+            iR: 199,
+            iG: 158,
+            iB: 62
+        },
+        {
+            sName: "Mexico City",
+            iR: 175,
+            iG: 108,
+            iB: 148
+        },
+        {
+            sName: "Morelos",
+            iR: 9,
+            iG: 22,
+            iB: 47
+        },
+        {
+            sName: "Mexico",
+            iR: 243,
+            iG: 76,
+            iB: 44
+        },
+        {
+            sName: "Guerrero",
+            iR: 166,
+            iG: 161,
+            iB: 232
+        },
+        {
+            sName: "Oaxaca",
+            iR: 134,
+            iG: 62,
+            iB: 80
+        },
+        {
+            sName: "Chiapas",
+            iR: 8,
+            iG: 154,
+            iB: 184
+        },
+        {
+            sName: "Belize",
+            iR: 87,
+            iG: 185,
+            iB: 182
+        },
+        {
+            sName: "Guatemala",
+            iR: 155,
+            iG: 161,
+            iB: 26
+        },
+        {
+            sName: "El Salvador",
+            iR: 129,
+            iG: 208,
+            iB: 171
+        },
+        {
+            sName: "Honduras",
+            iR: 30,
+            iG: 247,
+            iB: 172
+        },
+        {
+            sName: "Nicaragua",
+            iR: 169,
+            iG: 65,
+            iB: 5
+        },
+        {
+            sName: "Costa Rica",
+            iR: 128,
+            iG: 235,
+            iB: 4
+        },
+        {
+            sName: "Panama",
+            iR: 230,
+            iG: 60,
+            iB: 46
+        },
+        {
+            sName: "Panama Canal Zone",
+            iR: 105,
+            iG: 45,
+            iB: 229
+        },
+        {
+            sName: "Jamaica",
+            iR: 119,
+            iG: 181,
+            iB: 22
+        },
+        {
+            sName: "Cuba",
+            iR: 175,
+            iG: 220,
+            iB: 213
+        },
+        {
+            sName: "Cayman Islands",
+            iR: 159,
+            iG: 74,
+            iB: 218
+        },
+        {
+            sName: "Guantanamo Bay",
+            iR: 70,
+            iG: 154,
+            iB: 1
+        },
+        {
+            sName: "Bahamas",
+            iR: 85,
+            iG: 13,
+            iB: 141
+        },
+        {
+            sName: "Turks and Caicos",
+            iR: 106,
+            iG: 252,
+            iB: 234
+        },
+        {
+            sName: "Haiti",
+            iR: 174,
+            iG: 211,
+            iB: 108
+        },
+        {
+            sName: "Dominican Republic",
+            iR: 21,
+            iG: 34,
+            iB: 106
+        },
+        {
+            sName: "Puerto Rico",
+            iR: 50,
+            iG: 203,
+            iB: 90
+        },
+        {
+            sName: "US Virgin Islands",
+            iR: 8,
+            iG: 76,
+            iB: 215
+        },
+        {
+            sName: "British Virgin Islands",
+            iR: 120,
+            iG: 105,
+            iB: 135
+        },
+        {
+            sName: "Lesser Antilles",
+            iR: 237,
+            iG: 187,
+            iB: 128
+        },
+        {
+            sName: "Trinidad and Tobago",
+            iR: 197,
+            iG: 6,
+            iB: 136
+        },
+        {
+            sName: "Curacao",
+            iR: 99,
+            iG: 53,
+            iB: 187
+        },
+        {
+            sName: "Greenland",
+            iR: 124,
+            iG: 190,
+            iB: 83
         }
     ]
 }
