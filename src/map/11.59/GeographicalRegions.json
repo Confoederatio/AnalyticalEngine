@@ -732,6 +732,1236 @@
             iR: 124,
             iG: 190,
             iB: 83
+        },
+        {
+            sName: "Insular",
+            iR: 52,
+            iG: 97,
+            iB: 100
+        },
+        {
+            sName: "Caribe",
+            iR: 157,
+            iG: 138,
+            iB: 105
+        },
+        {
+            sName: "Pacifico",
+            iR: 158,
+            iG: 104,
+            iB: 139
+        },
+        {
+            sName: "Andes",
+            iR: 94,
+            iG: 125,
+            iB: 180
+        },
+        {
+            sName: "Orinoquia",
+            iR: 214,
+            iG: 207,
+            iB: 211
+        },
+        {
+            sName: "Amazonia",
+            iR: 98,
+            iG: 201,
+            iB: 180
+        },
+        {
+            sName: "Zulian",
+            iR: 22,
+            iG: 49,
+            iB: 128
+        },
+        {
+            sName: "Andean",
+            iR: 70,
+            iG: 77,
+            iB: 30
+        },
+        {
+            sName: "Llanos",
+            iR: 116,
+            iG: 48,
+            iB: 45
+        },
+        {
+            sName: "Central-Western",
+            iR: 14,
+            iG: 89,
+            iB: 155
+        },
+        {
+            sName: "Capital",
+            iR: 247,
+            iG: 218,
+            iB: 242
+        },
+        {
+            sName: "Central",
+            iR: 252,
+            iG: 242,
+            iB: 177
+        },
+        {
+            sName: "Eastern",
+            iR: 148,
+            iG: 57,
+            iB: 238
+        },
+        {
+            sName: "Insular",
+            iR: 78,
+            iG: 147,
+            iB: 112
+        },
+        {
+            sName: "Guayana",
+            iR: 103,
+            iG: 159,
+            iB: 71
+        },
+        {
+            sName: "Essequibo",
+            iR: 200,
+            iG: 188,
+            iB: 155
+        },
+        {
+            sName: "Kasuela",
+            iR: 162,
+            iG: 147,
+            iB: 4
+        },
+        {
+            sName: "Guyana",
+            iR: 79,
+            iG: 190,
+            iB: 91
+        },
+        {
+            sName: "Suriname",
+            iR: 32,
+            iG: 97,
+            iB: 88
+        },
+        {
+            sName: "French Guyana",
+            iR: 220,
+            iG: 102,
+            iB: 161
+        },
+        {
+            sName: "Panapi",
+            iR: 123,
+            iG: 172,
+            iB: 73
+        },
+        {
+            sName: "Galapagos",
+            iR: 165,
+            iG: 157,
+            iB: 203
+        },
+        {
+            sName: "Costa",
+            iR: 37,
+            iG: 155,
+            iB: 184
+        },
+        {
+            sName: "Sierra",
+            iR: 51,
+            iG: 22,
+            iB: 52
+        },
+        {
+            sName: "Oriente",
+            iR: 227,
+            iG: 110,
+            iB: 66
+        },
+        {
+            sName: "Amazonas",
+            iR: 192,
+            iG: 137,
+            iB: 190
+        },
+        {
+            sName: "Madre de Dios",
+            iR: 153,
+            iG: 138,
+            iB: 122
+        },
+        {
+            sName: "Altiplano",
+            iR: 51,
+            iG: 53,
+            iB: 140
+        },
+        {
+            sName: "San Martin",
+            iR: 95,
+            iG: 107,
+            iB: 128
+        },
+        {
+            sName: "Northern Sierra",
+            iR: 97,
+            iG: 149,
+            iB: 94
+        },
+        {
+            sName: "Southern Sierra",
+            iR: 56,
+            iG: 240,
+            iB: 223
+        },
+        {
+            sName: "Southern Coast",
+            iR: 154,
+            iG: 134,
+            iB: 98
+        },
+        {
+            sName: "Central Coast",
+            iR: 239,
+            iG: 241,
+            iB: 69
+        },
+        {
+            sName: "Central Sierra",
+            iR: 146,
+            iG: 72,
+            iB: 106
+        },
+        {
+            sName: "Northern Coast",
+            iR: 245,
+            iG: 30,
+            iB: 132
+        },
+        {
+            sName: "Pando",
+            iR: 40,
+            iG: 25,
+            iB: 186
+        },
+        {
+            sName: "Beni",
+            iR: 55,
+            iG: 142,
+            iB: 216
+        },
+        {
+            sName: "Santa Cruz",
+            iR: 171,
+            iG: 91,
+            iB: 7
+        },
+        {
+            sName: "Tarija",
+            iR: 73,
+            iG: 142,
+            iB: 128
+        },
+        {
+            sName: "Cochabamba",
+            iR: 146,
+            iG: 123,
+            iB: 66
+        },
+        {
+            sName: "Potosi",
+            iR: 124,
+            iG: 123,
+            iB: 11
+        },
+        {
+            sName: "La Paz",
+            iR: 210,
+            iG: 10,
+            iB: 80
+        },
+        {
+            sName: "Arica and Parinacota",
+            iR: 142,
+            iG: 199,
+            iB: 246
+        },
+        {
+            sName: "Tarapaca",
+            iR: 58,
+            iG: 192,
+            iB: 199
+        },
+        {
+            sName: "Antofagasta",
+            iR: 29,
+            iG: 125,
+            iB: 123
+        },
+        {
+            sName: "Atacama",
+            iR: 138,
+            iG: 106,
+            iB: 77
+        },
+        {
+            sName: "Coquimbo",
+            iR: 28,
+            iG: 212,
+            iB: 163
+        },
+        {
+            sName: "Valparaiso",
+            iR: 43,
+            iG: 213,
+            iB: 66
+        },
+        {
+            sName: "Santiago Metropolitan",
+            iR: 220,
+            iG: 170,
+            iB: 7
+        },
+        {
+            sName: "O'Higgins",
+            iR: 187,
+            iG: 91,
+            iB: 182
+        },
+        {
+            sName: "Maule",
+            iR: 119,
+            iG: 251,
+            iB: 212
+        },
+        {
+            sName: "Bio Bio",
+            iR: 217,
+            iG: 156,
+            iB: 243
+        },
+        {
+            sName: "Araucania",
+            iR: 156,
+            iG: 165,
+            iB: 241
+        },
+        {
+            sName: "Los Rios",
+            iR: 208,
+            iG: 117,
+            iB: 8
+        },
+        {
+            sName: "Los Lagos",
+            iR: 40,
+            iG: 24,
+            iB: 97
+        },
+        {
+            sName: "Aysen",
+            iR: 45,
+            iG: 90,
+            iB: 26
+        },
+        {
+            sName: "Magallanes",
+            iR: 242,
+            iG: 186,
+            iB: 68
+        },
+        {
+            sName: "Rapa Nui",
+            iR: 71,
+            iG: 142,
+            iB: 121
+        },
+        {
+            sName: "Falkland Islands",
+            iR: 188,
+            iG: 36,
+            iB: 15
+        },
+        {
+            sName: "South Georgia and the South Sandwich Islands",
+            iR: 74,
+            iG: 239,
+            iB: 185
+        },
+        {
+            sName: "Gran Chaco",
+            iR: 52,
+            iG: 118,
+            iB: 221
+        },
+        {
+            sName: "Northern Paranena",
+            iR: 82,
+            iG: 74,
+            iB: 59
+        },
+        {
+            sName: "Southern Paranena",
+            iR: 107,
+            iG: 113,
+            iB: 238
+        },
+        {
+            sName: "Parana Plateau",
+            iR: 158,
+            iG: 97,
+            iB: 251
+        },
+        {
+            sName: "Montevideo",
+            iR: 215,
+            iG: 10,
+            iB: 48
+        },
+        {
+            sName: "Uruguay",
+            iR: 191,
+            iG: 37,
+            iB: 160
+        },
+        {
+            sName: "Misiones",
+            iR: 30,
+            iG: 152,
+            iB: 245
+        },
+        {
+            sName: "Corrientes",
+            iR: 72,
+            iG: 240,
+            iB: 64
+        },
+        {
+            sName: "Entre Rios",
+            iR: 132,
+            iG: 194,
+            iB: 228
+        },
+        {
+            sName: "Formosa",
+            iR: 125,
+            iG: 201,
+            iB: 8
+        },
+        {
+            sName: "Jujuy",
+            iR: 151,
+            iG: 79,
+            iB: 241
+        },
+        {
+            sName: "Salta",
+            iR: 241,
+            iG: 231,
+            iB: 207
+        },
+        {
+            sName: "Tucuman",
+            iR: 99,
+            iG: 122,
+            iB: 67
+        },
+        {
+            sName: "Chaco",
+            iR: 195,
+            iG: 92,
+            iB: 79
+        },
+        {
+            sName: "Santiago del Estero",
+            iR: 184,
+            iG: 202,
+            iB: 154
+        },
+        {
+            sName: "Santa Fe",
+            iR: 11,
+            iG: 17,
+            iB: 37
+        },
+        {
+            sName: "Buenos Aires",
+            iR: 11,
+            iG: 1,
+            iB: 207
+        },
+        {
+            sName: "Autonomous City of Buenos Aires",
+            iR: 192,
+            iG: 41,
+            iB: 1
+        },
+        {
+            sName: "Cordoba",
+            iR: 53,
+            iG: 250,
+            iB: 209
+        },
+        {
+            sName: "Catamarca",
+            iR: 60,
+            iG: 67,
+            iB: 233
+        },
+        {
+            sName: "La Rioja",
+            iR: 23,
+            iG: 52,
+            iB: 6
+        },
+        {
+            sName: "San Juan",
+            iR: 203,
+            iG: 62,
+            iB: 222
+        },
+        {
+            sName: "Mendoza",
+            iR: 244,
+            iG: 175,
+            iB: 156
+        },
+        {
+            sName: "San Luis",
+            iR: 252,
+            iG: 142,
+            iB: 83
+        },
+        {
+            sName: "Neuquen",
+            iR: 36,
+            iG: 191,
+            iB: 245
+        },
+        {
+            sName: "La Pampa",
+            iR: 150,
+            iG: 63,
+            iB: 61
+        },
+        {
+            sName: "Rio Negro",
+            iR: 54,
+            iG: 72,
+            iB: 201
+        },
+        {
+            sName: "Chubut",
+            iR: 91,
+            iG: 43,
+            iB: 181
+        },
+        {
+            sName: "Santa Cruz",
+            iR: 251,
+            iG: 17,
+            iB: 80
+        },
+        {
+            sName: "Tierra del Fuego",
+            iR: 31,
+            iG: 11,
+            iB: 112
+        },
+        {
+            sName: "Rio Grande do Sul",
+            iR: 134,
+            iG: 155,
+            iB: 91
+        },
+        {
+            sName: "Santa Catarina",
+            iR: 185,
+            iG: 108,
+            iB: 113
+        },
+        {
+            sName: "Parana",
+            iR: 91,
+            iG: 246,
+            iB: 106
+        },
+        {
+            sName: "Sao Paulo",
+            iR: 230,
+            iG: 164,
+            iB: 217
+        },
+        {
+            sName: "Rio de Janeiro",
+            iR: 117,
+            iG: 121,
+            iB: 33
+        },
+        {
+            sName: "Espirito Santo",
+            iR: 31,
+            iG: 75,
+            iB: 178
+        },
+        {
+            sName: "Minas Gerais",
+            iR: 228,
+            iG: 107,
+            iB: 188
+        },
+        {
+            sName: "Bahia",
+            iR: 242,
+            iG: 239,
+            iB: 253
+        },
+        {
+            sName: "Sergipe",
+            iR: 6,
+            iG: 250,
+            iB: 93
+        },
+        {
+            sName: "Alagoas",
+            iR: 132,
+            iG: 240,
+            iB: 134
+        },
+        {
+            sName: "Pernambuco",
+            iR: 183,
+            iG: 14,
+            iB: 78
+        },
+        {
+            sName: "Paraiba",
+            iR: 14,
+            iG: 186,
+            iB: 51
+        },
+        {
+            sName: "Rio Grande do Norte",
+            iR: 6,
+            iG: 196,
+            iB: 155
+        },
+        {
+            sName: "Ceara",
+            iR: 171,
+            iG: 217,
+            iB: 199
+        },
+        {
+            sName: "Maranhao",
+            iR: 38,
+            iG: 200,
+            iB: 153
+        },
+        {
+            sName: "Piaui",
+            iR: 204,
+            iG: 146,
+            iB: 108
+        },
+        {
+            sName: "Goias",
+            iR: 201,
+            iG: 178,
+            iB: 64
+        },
+        {
+            sName: "Federal District",
+            iR: 249,
+            iG: 1,
+            iB: 92
+        },
+        {
+            sName: "Mato Grosso do Sul",
+            iR: 23,
+            iG: 37,
+            iB: 101
+        },
+        {
+            sName: "Mato Grosso",
+            iR: 223,
+            iG: 227,
+            iB: 143
+        },
+        {
+            sName: "Tocantins",
+            iR: 210,
+            iG: 111,
+            iB: 76
+        },
+        {
+            sName: "Amapa",
+            iR: 208,
+            iG: 150,
+            iB: 75
+        },
+        {
+            sName: "Para",
+            iR: 139,
+            iG: 199,
+            iB: 17
+        },
+        {
+            sName: "Rondonia",
+            iR: 30,
+            iG: 232,
+            iB: 227
+        },
+        {
+            sName: "Acre",
+            iR: 207,
+            iG: 123,
+            iB: 215
+        },
+        {
+            sName: "Amazonas",
+            iR: 252,
+            iG: 198,
+            iB: 36
+        },
+        {
+            sName: "Roraima",
+            iR: 194,
+            iG: 159,
+            iB: 218
+        },
+        {
+            sName: "Bermuda",
+            iR: 227,
+            iG: 234,
+            iB: 25
+        },
+        {
+            sName: "Iceland",
+            iR: 141,
+            iG: 34,
+            iB: 184
+        },
+        {
+            sName: "Jan Mayen",
+            iR: 146,
+            iG: 12,
+            iB: 65
+        },
+        {
+            sName: "Faroe Islands",
+            iR: 143,
+            iG: 65,
+            iB: 147
+        },
+        {
+            sName: "Azores",
+            iR: 37,
+            iG: 68,
+            iB: 93
+        },
+        {
+            sName: "Madeira",
+            iR: 69,
+            iG: 214,
+            iB: 236
+        },
+        {
+            sName: "Canary Islands",
+            iR: 231,
+            iG: 144,
+            iB: 89
+        },
+        {
+            sName: "Lisbon",
+            iR: 69,
+            iG: 234,
+            iB: 80
+        },
+        {
+            sName: "Alentejo",
+            iR: 214,
+            iG: 187,
+            iB: 15
+        },
+        {
+            sName: "Algarve",
+            iR: 209,
+            iG: 133,
+            iB: 45
+        },
+        {
+            sName: "Central Portugal",
+            iR: 251,
+            iG: 21,
+            iB: 229
+        },
+        {
+            sName: "Northern Portugal",
+            iR: 212,
+            iG: 184,
+            iB: 133
+        },
+        {
+            sName: "Balearic Islands",
+            iR: 13,
+            iG: 165,
+            iB: 122
+        },
+        {
+            sName: "Gibraltar",
+            iR: 77,
+            iG: 74,
+            iB: 57
+        },
+        {
+            sName: "Ceuta",
+            iR: 249,
+            iG: 240,
+            iB: 227
+        },
+        {
+            sName: "Melilla",
+            iR: 133,
+            iG: 135,
+            iB: 37
+        },
+        {
+            sName: "Madrid",
+            iR: 104,
+            iG: 84,
+            iB: 56
+        },
+        {
+            sName: "Valencia",
+            iR: 141,
+            iG: 28,
+            iB: 92
+        },
+        {
+            sName: "Aragon",
+            iR: 46,
+            iG: 150,
+            iB: 102
+        },
+        {
+            sName: "Catalonia",
+            iR: 218,
+            iG: 1,
+            iB: 39
+        },
+        {
+            sName: "Basque Country",
+            iR: 73,
+            iG: 81,
+            iB: 148
+        },
+        {
+            sName: "La Rioja",
+            iR: 10,
+            iG: 218,
+            iB: 159
+        },
+        {
+            sName: "Navarre",
+            iR: 9,
+            iG: 36,
+            iB: 125
+        },
+        {
+            sName: "Castile and Leon",
+            iR: 25,
+            iG: 85,
+            iB: 9
+        },
+        {
+            sName: "Asturias",
+            iR: 61,
+            iG: 238,
+            iB: 150
+        },
+        {
+            sName: "Cantabria",
+            iR: 165,
+            iG: 88,
+            iB: 57
+        },
+        {
+            sName: "Galicia",
+            iR: 172,
+            iG: 135,
+            iB: 240
+        },
+        {
+            sName: "Castilla-La Mancha",
+            iR: 245,
+            iG: 39,
+            iB: 196
+        },
+        {
+            sName: "Murcia",
+            iR: 60,
+            iG: 153,
+            iB: 19
+        },
+        {
+            sName: "Andalusia",
+            iR: 223,
+            iG: 193,
+            iB: 169
+        },
+        {
+            sName: "Extremadura",
+            iR: 110,
+            iG: 171,
+            iB: 83
+        },
+        {
+            sName: "Leinster",
+            iR: 34,
+            iG: 148,
+            iB: 58
+        },
+        {
+            sName: "Munster",
+            iR: 45,
+            iG: 146,
+            iB: 197
+        },
+        {
+            sName: "Connaught",
+            iR: 179,
+            iG: 184,
+            iB: 143
+        },
+        {
+            sName: "Northern Ireland",
+            iR: 226,
+            iG: 241,
+            iB: 49
+        },
+        {
+            sName: "Isle of Man",
+            iR: 134,
+            iG: 157,
+            iB: 28
+        },
+        {
+            sName: "London",
+            iR: 15,
+            iG: 246,
+            iB: 254
+        },
+        {
+            sName: "South East",
+            iR: 3,
+            iG: 105,
+            iB: 65
+        },
+        {
+            sName: "South West",
+            iR: 54,
+            iG: 53,
+            iB: 233
+        },
+        {
+            sName: "West Midlands",
+            iR: 222,
+            iG: 79,
+            iB: 39
+        },
+        {
+            sName: "East",
+            iR: 177,
+            iG: 82,
+            iB: 27
+        },
+        {
+            sName: "East Midlands",
+            iR: 21,
+            iG: 166,
+            iB: 237
+        },
+        {
+            sName: "Wales",
+            iR: 57,
+            iG: 170,
+            iB: 127
+        },
+        {
+            sName: "North West",
+            iR: 115,
+            iG: 160,
+            iB: 12
+        },
+        {
+            sName: "Yorkshire & The Humber",
+            iR: 212,
+            iG: 85,
+            iB: 208
+        },
+        {
+            sName: "North East",
+            iR: 56,
+            iG: 163,
+            iB: 173
+        },
+        {
+            sName: "Scotland",
+            iR: 164,
+            iG: 220,
+            iB: 225
+        },
+        {
+            sName: "Nord-Pas-de-Calais",
+            iR: 70,
+            iG: 31,
+            iB: 155
+        },
+        {
+            sName: "Ile-de-France",
+            iR: 207,
+            iG: 22,
+            iB: 60
+        },
+        {
+            sName: "Picardie",
+            iR: 120,
+            iG: 186,
+            iB: 33
+        },
+        {
+            sName: "Haute-Normandie",
+            iR: 91,
+            iG: 99,
+            iB: 161
+        },
+        {
+            sName: "Basse-Normandie",
+            iR: 217,
+            iG: 229,
+            iB: 128
+        },
+        {
+            sName: "Channel Islands",
+            iR: 232,
+            iG: 164,
+            iB: 141
+        },
+        {
+            sName: "Bretagne",
+            iR: 222,
+            iG: 39,
+            iB: 205
+        },
+        {
+            sName: "Pays de la Loire",
+            iR: 125,
+            iG: 211,
+            iB: 49
+        },
+        {
+            sName: "Poitou-Charentes",
+            iR: 223,
+            iG: 191,
+            iB: 101
+        },
+        {
+            sName: "Centre",
+            iR: 233,
+            iG: 246,
+            iB: 176
+        },
+        {
+            sName: "Limousin",
+            iR: 98,
+            iG: 112,
+            iB: 51
+        },
+        {
+            sName: "Aquitaine",
+            iR: 43,
+            iG: 88,
+            iB: 178
+        },
+        {
+            sName: "Midi-Pyrenees",
+            iR: 13,
+            iG: 125,
+            iB: 150
+        },
+        {
+            sName: "Andorra",
+            iR: 140,
+            iG: 173,
+            iB: 16
+        },
+        {
+            sName: "Languedoc-Roussillon",
+            iR: 59,
+            iG: 67,
+            iB: 147
+        },
+        {
+            sName: "Provence-Alpes-Cote d'Azur",
+            iR: 192,
+            iG: 123,
+            iB: 27
+        },
+        {
+            sName: "Monaco",
+            iR: 148,
+            iG: 237,
+            iB: 146
+        },
+        {
+            sName: "Corse",
+            iR: 22,
+            iG: 27,
+            iB: 227
+        },
+        {
+            sName: "Rhone-Alpes",
+            iR: 36,
+            iG: 47,
+            iB: 240
+        },
+        {
+            sName: "Auvergne",
+            iR: 231,
+            iG: 228,
+            iB: 131
+        },
+        {
+            sName: "Bourgogne",
+            iR: 197,
+            iG: 6,
+            iB: 17
+        },
+        {
+            sName: "Champagne-Ardenne",
+            iR: 202,
+            iG: 33,
+            iB: 161
+        },
+        {
+            sName: "Franche-Comte",
+            iR: 246,
+            iG: 221,
+            iB: 190
+        },
+        {
+            sName: "Alsace",
+            iR: 15,
+            iG: 204,
+            iB: 190
+        },
+        {
+            sName: "Lorraine",
+            iR: 78,
+            iG: 187,
+            iB: 2
+        },
+        {
+            sName: "Luxembourg",
+            iR: 152,
+            iG: 82,
+            iB: 241
+        },
+        {
+            sName: "Wallonie",
+            iR: 52,
+            iG: 41,
+            iB: 202
+        },
+        {
+            sName: "Bruxelles",
+            iR: 41,
+            iG: 181,
+            iB: 27
+        },
+        {
+            sName: "Vlaanderen",
+            iR: 238,
+            iG: 228,
+            iB: 24
+        },
+        {
+            sName: "Zeeland",
+            iR: 145,
+            iG: 231,
+            iB: 204
+        },
+        {
+            sName: "Noord-Brabant",
+            iR: 238,
+            iG: 170,
+            iB: 215
+        },
+        {
+            sName: "Limburg",
+            iR: 121,
+            iG: 54,
+            iB: 101
+        },
+        {
+            sName: "Zuid-Holland",
+            iR: 9,
+            iG: 156,
+            iB: 172
+        },
+        {
+            sName: "Noord-Holland",
+            iR: 163,
+            iG: 4,
+            iB: 24
+        },
+        {
+            sName: "Utrecht",
+            iR: 150,
+            iG: 49,
+            iB: 113
+        },
+        {
+            sName: "Flevoland",
+            iR: 222,
+            iG: 81,
+            iB: 214
+        },
+        {
+            sName: "Friesland",
+            iR: 210,
+            iG: 178,
+            iB: 162
+        },
+        {
+            sName: "Groningen",
+            iR: 23,
+            iG: 183,
+            iB: 110
+        },
+        {
+            sName: "Drenthe",
+            iR: 53,
+            iG: 164,
+            iB: 110
+        },
+        {
+            sName: "Overijssel",
+            iR: 36,
+            iG: 214,
+            iB: 66
+        },
+        {
+            sName: "Gelderland",
+            iR: 44,
+            iG: 167,
+            iB: 48
         }
     ]
 }
