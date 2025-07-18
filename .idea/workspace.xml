@@ -9,7 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b6f7f8-b868-43e9-b471-ac1dbd15fa3b" name="Changes" comment="" />
+    <list default="true" id="09b6f7f8-b868-43e9-b471-ac1dbd15fa3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/iconGame_32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/iconGame_32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/icon_128x128.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/icon_128x128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/icon_16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/icon_16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/icon_32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/icon_32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/icon_512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/icon_512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/icon/icon_64x64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/icon/icon_64x64.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,6 +251,7 @@
       <workItem from="1751736594520" duration="1812000" />
       <workItem from="1751971058584" duration="335000" />
       <workItem from="1752358814818" duration="355000" />
+      <workItem from="1752738928642" duration="643000" />
     </task>
     <servers />
   </component>
