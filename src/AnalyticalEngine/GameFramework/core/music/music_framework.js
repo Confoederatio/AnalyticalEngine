@@ -15,7 +15,7 @@
 		//1. Play Main_Theme during loading
 		playMusic(file_path);
 
-		//2. Keep track of current loadding music timestamp so Main_Theme can be resumed upon reaching the Main Menu
+		//2. Keep track of current loading music timestamp so Main_Theme can be resumed upon reaching the Main Menu
 		var main_theme_loading_logic_loop = setInterval(function(){
 			try {
 				if (Game.soundsManager.lTitles.size() != 0 && !music_loaded) {
