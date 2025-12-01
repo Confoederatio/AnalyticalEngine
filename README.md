@@ -42,7 +42,7 @@ YouTube: https://www.youtube.com/@Confoederatio
 ## Documentation.
 Documentation is currently a WIP. Consider joining the Discord if you need technical support.
 
-- [Custom Mapmodes](https://docs.google.com/document/d/1BiNkR2viT5-brjBGan3dNHYvwu2Qn-TWQEktjVsJ-44/edit?usp=sharing) - ⚠️ Not yet fully supported.
+- [Custom Mapmodes](https://docs.google.com/document/d/1BiNkR2viT5-brjBGan3dNHYvwu2Qn-TWQEktjVsJ-44/edit?usp=sharing)
 - [Deepscript (Event Conditions, Effects, Loops, Scopes, Variables)](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing).
 - [Map Data Scripting Information](https://docs.google.com/document/d/1zXPs4nmJdrDUInwI-_gfCVnCAFQaagksDPb1qgpR9uA/edit?usp=sharing) - ⚠️ Not yet fully supported.
 
