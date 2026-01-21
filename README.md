@@ -40,11 +40,9 @@ YouTube: https://www.youtube.com/@Confoederatio
 - Vis Tacitus (Confoederatio) - @vistacitus
 
 ## Documentation.
-Documentation is currently a WIP. Consider joining the Discord if you need technical support.
 
-- [Custom Mapmodes](https://docs.google.com/document/d/1BiNkR2viT5-brjBGan3dNHYvwu2Qn-TWQEktjVsJ-44/edit?usp=sharing)
-- [Deepscript (Event Conditions, Effects, Loops, Scopes, Variables)](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing).
-- [Map Data Scripting Information](https://docs.google.com/document/d/1zXPs4nmJdrDUInwI-_gfCVnCAFQaagksDPb1qgpR9uA/edit?usp=sharing) - ⚠️ Not yet fully supported.
+> [!NOTE]
+> Documentation and modding help is available from [Confoederatio Docs](https://confoederatiodocs.info/CTD+(Confoederatio%2C+Technical+Division)/Documentation/Games/Analytical+Engine/Analytical+Engine). Note that documentation is currently a WIP and subject to change. Consider joining the Discord if you need technical support.
 
 ## Installing a Custom Build.
 
